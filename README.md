@@ -3,7 +3,7 @@ I'm a Chinese web development engineer😄. living and working in Shenzhen. Look
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=vue&show_icons=true&count_private=true)](https://github.com/fuyz)
 
-- 🔭 A Web and Mobile web developer.
+- 🔭 A PC and Mobile web developer.
 - 🌱 Currently learning to be a Full Stack development engineer.
 - 📫 How to reach me: f953958160@163.com.
 - ❤️ Daily hobby: Basketball、Fitness、Swimming and Coding .
