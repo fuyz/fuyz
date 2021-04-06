@@ -1,16 +1,16 @@
-## Hi, I'm fuyingzhi (☕💻💡❤️)
-I'm a Chinese web development engineer😄. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners.
+## Hi, I'm fuyingzhi (😄☕💻❤️)
+💡I'm a Chinese web development engineer. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners💡.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=vue&show_icons=true&count_private=true)](https://github.com/fuyz)
 
 - 🔭 A PC and Mobile web developer.
 - 🌱 Currently learning to be a Full Stack development engineer.
 - 📫 How to reach me: f953958160@163.com.
-- ❤️ Daily hobby: Basketball、Fitness、Swimming and Coding .
+- ❤️ Daily hobby: 🏀Basketball、💪Fitness、🎞️film、🏊‍♂️Swimming and ✒️Coding .
 - 🏆 2021 Goals:
-    - Contribute and publish more open source projects.
-    - Improve my financial skills.    
-    - Expand and increase after-sleep income
+    - 📅Contribute and publish more open source projects.
+    - 📅Improve my financial skills.    
+    - 📅Expand and increase after-sleep income
 
 ## 🔧 Technologies
 ![HTML5](https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67)
