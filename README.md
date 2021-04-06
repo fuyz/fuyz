@@ -1,6 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
+## Hi, I'm fuyingzhi (☕💻💡❤️)
+I am a Chinese web development engineer. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=merko&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working as a web developer.
 - 🌱 Currently learning to be a Full Stack development engineer.
