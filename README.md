@@ -9,8 +9,7 @@
 - ❤️ Daily hobby: 🏀Basketball、💪Fitness、🎞️film、🏊‍♂️Swimming and ✒️Coding .
 - 🏆 2021 Goals:
     - 📅Contribute and publish more open source projects.
-    - 📅Improve my financial skills.    
-    - 📅Expand and increase after-sleep income
+    - 📅Improve my financial skills.
 
 ## 🔧 Technologies
 ![HTML5](https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67)
