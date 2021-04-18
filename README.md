@@ -1,4 +1,4 @@
-## Hi, I'm fuyingzhi (☕💻❤️)
+## Hi, I'm Yingzhi Fu (☕💻❤️)
 💡I'm a Chinese and a web development engineer. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners.💡
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=vue&show_icons=true&count_private=true)](https://github.com/fuyz/github-readme-stats)
