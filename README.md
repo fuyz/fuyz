@@ -1,11 +1,11 @@
 ## Hi, I'm Yingzhi Fu (☕💻❤️)
-💡I'm a Chinese and a web development engineer. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners.💡
+💡I'm a web development engineer from China. living and working in Shenzhen. Looking forward to discussing technology with like-minded partners.💡
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuyz&theme=vue&show_icons=true&count_private=true)](https://github.com/fuyz/github-readme-stats)
 
 - 🔭 A PC and Mobile web developer.
 - 🌱 Currently learning to be a Full Stack development engineer.
-- 📫 How to reach me: f953958160@163.com.
+- 📫 Reach me: f953958160@163.com / 953958160@qq.com.
 - ❤️ Daily hobby: 🏀Basketball、💪Fitness、🎞️film、🏊‍♂️Swimming and ✒️Coding .
 - 🏆 2021 Goals:
     - 📅Contribute and publish more open source projects.
