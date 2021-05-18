@@ -6,7 +6,7 @@
 - 🔭  A PC and Mobile web developer.
 - 🌱  Currently learning to be a Full Stack development engineer.
 - 📫  Reach me: f953958160@163.com / 953958160@qq.com.
-- ❤️  Daily hobby: 🏀Basketball、💪Fitness、🎞️film、🏊‍♂️Swimming and ✒️Coding .
+- ❤️  Daily hobby: 🏀  Basketball、💪 Fitness、🎞️ film、🏊‍ ♂️Swimming and ✒️ Coding .
 - 🏆  2021 Goals:
     - 📅 Contribute and publish more open source projects.
     - 📅 Improve my financial skills.
