@@ -25,6 +25,7 @@
 ![react](https://camo.githubusercontent.com/8e9c6ff9a7a9aac5b41dd49c78f03383e34c46d3bbf1dc92cb8dc5625213f637/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f72656163742d6e61746976652e706e67)
 ![AngularJs](https://camo.githubusercontent.com/7867f3f400cda037ff2fe8ede4baecb280823f950c86e728b2fdab48e71d2aad/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f616e67756c61726a732e706e67)
 ![Window](https://camo.githubusercontent.com/1d3ac37d20c0c66419bacaedb107d28f62ad1ae15bb268fbfa04aa0fd12cb59f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67)
+<img src="https://cn.vitejs.dev/logo.svg" width="30px" title="vitejs" atl="vitejs">
 
 <img src="https://avatars.githubusercontent.com/u/33116358?s=40&v=4" title="Travis CI" atl="Travis CI"><img src="https://avatars.githubusercontent.com/u/34743864?s=40&v=4" title="dbeaver" atl="dbeaver">
 
