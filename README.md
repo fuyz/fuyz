@@ -16,6 +16,7 @@
 <img src="https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67" width="30px" title="HTML5" atl="HTML5">![CSS3](https://camo.githubusercontent.com/4fdeab7e775dbfb1cca495f10c5847f005054e55e6b91baa2ae09153ccf09d98/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f637373332e706e67)
 ![JavaScript](https://camo.githubusercontent.com/97cf4f8a9d6cc9cc3e930804c2819825bfb6dce51799d4ccecfc5bf766030a9a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6a6176617363726970742e706e67)
 ![Vue](https://camo.githubusercontent.com/d774a7620dfa4ac47016b00b926d2cb8ad92fe81929a429d9f192eb199ace1ea/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f7675652d6a732e706e67)
+<img src="https://element-plus.gitee.io/favicon.ico" width="30px" title="element-plus" atl="element-plus">
 ![SASS](https://camo.githubusercontent.com/6ad86fb32b7869535fbb7c0b0bc2d1f7a21294f991936b0ccdbdaa98e5ea3e2d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f736173732e706e67)
 ![NodeJS](https://camo.githubusercontent.com/81f543ea1060080eb238ea885f538a097943a9b3ba30e8de5cd3dd3d53bc76e4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6e6f64656a732e706e67)
 ![NPM](https://camo.githubusercontent.com/898b8f22f0aa6342c492faac0a0e280f217281d2819d9b7231e5ed0f32b02663/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6e706d2e706e67)
@@ -26,8 +27,8 @@
 ![AngularJs](https://camo.githubusercontent.com/7867f3f400cda037ff2fe8ede4baecb280823f950c86e728b2fdab48e71d2aad/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f616e67756c61726a732e706e67)
 ![Window](https://camo.githubusercontent.com/1d3ac37d20c0c66419bacaedb107d28f62ad1ae15bb268fbfa04aa0fd12cb59f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f77696e646f77732d31302e706e67)
 <img src="https://cn.vitejs.dev/logo.svg" width="30px" title="vitejs" atl="vitejs">
-
-<img src="https://avatars.githubusercontent.com/u/33116358?s=40&v=4" title="Travis CI" atl="Travis CI"><img src="https://avatars.githubusercontent.com/u/34743864?s=40&v=4" title="dbeaver" atl="dbeaver">
+<!-- second line -->
+<img src="https://avatars.githubusercontent.com/u/33116358?s=40&v=4" title="Travis CI" atl="Travis CI"><img src="https://avatars.githubusercontent.com/u/34743864?s=40&v=4" title="dbeaver" atl="dbeaver"><img src="https://lhcdn.lanhuapp.com/web/static/favicon.ico" title="蓝湖" atl="蓝湖" width="40px"><img src="https://www.zentao.net/file.php?f=201908/f_3e8c31b19a1779be6b90bd8b89aed967.ico&t=ico&o=&s=&v=1623389580" title="禅道" atl="禅道" width="40px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyz&layout=compact)](https://github.com/fuyz)
 
