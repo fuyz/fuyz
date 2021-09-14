@@ -31,6 +31,7 @@
 <img src="https://avatars.githubusercontent.com/u/33116358?s=40&v=4" title="Travis CI" atl="Travis CI"><img src="https://avatars.githubusercontent.com/u/34743864?s=40&v=4" title="dbeaver" atl="dbeaver"><img src="https://lhcdn.lanhuapp.com/web/static/favicon.ico" title="蓝湖" atl="蓝湖" width="40px"><img src="https://www.zentao.net/file.php?f=201908/f_3e8c31b19a1779be6b90bd8b89aed967.ico&t=ico&o=&s=&v=1623389580" title="禅道" atl="禅道" width="40px">
 <img src="https://hellosean1025.github.io/yapi/documents/images/logo_header@2x.png" title="YApi" atl="YApi" width="40px">
 <img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*dbj2Tp-tmVgAAAAAAAAAAABkARQnAQ" title="语雀" atl="语雀" width="40px">
+<img src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico" title="iconfont" atl="iconfont" width="40px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyz&layout=compact)](https://github.com/fuyz)
 
