@@ -33,6 +33,7 @@
 <img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*dbj2Tp-tmVgAAAAAAAAAAABkARQnAQ" title="语雀" atl="语雀" width="40px">
 <img src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico" title="iconfont" atl="iconfont" width="40px">
 <img src="https://gw.alipayobjects.com/zos/bmw-prod/8a74c1d3-16f3-4719-be63-15e467a68a24/km0cv8vn_w500_h500.png" title="qiankun乾坤" atl="qiankun乾坤" width="40px">
+<img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/icon/64.png" title="flutter" atl="flutter" width="40px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyz&layout=compact)](https://github.com/fuyz)
 
